@@ -22,7 +22,7 @@ For the purpose of the exercise assume that the main support pages are structure
 
 The way we check for Zendesk is with a cname look up, if the cname points to a domain ending in .zendesk.com that means they are using Zendesk for their support page.
 
-For example mediatemplate.net has a support page support.mediatemple.net that points to the following cname: mtcloudsupport.zendesk.com, meaning they are hosting their support page on Zendesk. MXToolBox is a great way to do check a domain before testing:
+For example mediatemplate.net has a support page support.mediatemple.net that points to the following cname: mtcloudsupport.zendesk.com, meaning they are hosting their support page on Zendesk. MXToolBox is a great way to check a domain before testing:
 
 ![mxtoolbox](shot.png)
 
