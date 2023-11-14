@@ -8,6 +8,6 @@ In the project you'll find a `data` folder which contains homepages of various c
 
 There is a draft endpoint here `/chat/find`, please complete the endpoint to return an array of all the companies with a field specifying which chat they are using.
 
-Be aware that depending on how the website has installed Drift or Salesforce Live Agentthe details you're looking for could be different.
+Be aware that depending on how the website has installed Drift or Salesforce Live Agent the details you're looking for could be different.
 
 Feel free to add any packages you need to the project.
