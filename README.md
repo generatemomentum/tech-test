@@ -1,4 +1,4 @@
-# Momementum Tech Task
+# Momentum Tech Task
 
 An important data point for many of the companies we work with is are they currently using a competitor.
 
